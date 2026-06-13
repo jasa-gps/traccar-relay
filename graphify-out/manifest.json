@@ -1,0 +1,122 @@
+{
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/build.gradle.kts": {
+    "mtime": 1781355777.2426598,
+    "ast_hash": "a20dfb6e64ada08fd97711d1a34be313",
+    "semantic_hash": "a20dfb6e64ada08fd97711d1a34be313"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/google-services.json": {
+    "mtime": 1781355777.2427275,
+    "ast_hash": "2229ce74e92b3a96a75bc35d69216977",
+    "semantic_hash": "2229ce74e92b3a96a75bc35d69216977"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/DeviceListScreen.kt": {
+    "mtime": 1781355777.2432134,
+    "ast_hash": "241957db0b36b2d49802265d786d24ff",
+    "semantic_hash": "241957db0b36b2d49802265d786d24ff"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/MainActivity.kt": {
+    "mtime": 1781355777.243302,
+    "ast_hash": "a08cf2d5effc90a38593b0517bc722b0",
+    "semantic_hash": "a08cf2d5effc90a38593b0517bc722b0"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/MainViewModel.kt": {
+    "mtime": 1781355777.2434165,
+    "ast_hash": "c4577e9cde4e6bc2a9cd83730a8a81f8",
+    "semantic_hash": "c4577e9cde4e6bc2a9cd83730a8a81f8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/api/DeviceRepository.kt": {
+    "mtime": 1781355777.243538,
+    "ast_hash": "2979914479bf7a4541d075ed77f4215a",
+    "semantic_hash": "2979914479bf7a4541d075ed77f4215a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/api/NovaApiClient.kt": {
+    "mtime": 1781355777.243646,
+    "ast_hash": "b2655501141607b6d78484b4dc533094",
+    "semantic_hash": "b2655501141607b6d78484b4dc533094"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/api/SpotApiClient.kt": {
+    "mtime": 1781355777.2437096,
+    "ast_hash": "5ef0383a2e65500c0635e746db9815b3",
+    "semantic_hash": "5ef0383a2e65500c0635e746db9815b3"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/api/TraccarApiClient.kt": {
+    "mtime": 1781355777.2437804,
+    "ast_hash": "54f63219a446e0954af30fa2456a7f95",
+    "semantic_hash": "54f63219a446e0954af30fa2456a7f95"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/auth/GoogleAuthClient.kt": {
+    "mtime": 1781355777.2438674,
+    "ast_hash": "72bce9aec16dea670be38cb26148ed61",
+    "semantic_hash": "72bce9aec16dea670be38cb26148ed61"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/auth/KeySetupScreen.kt": {
+    "mtime": 1781355777.2439783,
+    "ast_hash": "2f3714de2ee3a4e7e58b9650a92de821",
+    "semantic_hash": "2f3714de2ee3a4e7e58b9650a92de821"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/auth/LoginScreen.kt": {
+    "mtime": 1781355777.2440577,
+    "ast_hash": "5bb651840783134e7dc05aefdbb35325",
+    "semantic_hash": "5bb651840783134e7dc05aefdbb35325"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/auth/TokenStorage.kt": {
+    "mtime": 1781355777.2441294,
+    "ast_hash": "84f3759ed74f255d427873a6add5993f",
+    "semantic_hash": "84f3759ed74f255d427873a6add5993f"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/push/FcmRegistrationClient.kt": {
+    "mtime": 1781355777.2442865,
+    "ast_hash": "6d771dfd5d28e76828646d8f4b0bf641",
+    "semantic_hash": "6d771dfd5d28e76828646d8f4b0bf641"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/push/HttpEceDecryptor.kt": {
+    "mtime": 1781355777.2443848,
+    "ast_hash": "52617e8a31a252fabbeaa4725b8657b8",
+    "semantic_hash": "52617e8a31a252fabbeaa4725b8657b8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/push/LocationWorker.kt": {
+    "mtime": 1781355777.2444427,
+    "ast_hash": "151e9b4b5bf1ca5b33667d1314758312",
+    "semantic_hash": "151e9b4b5bf1ca5b33667d1314758312"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/push/McsClient.kt": {
+    "mtime": 1781355777.2445412,
+    "ast_hash": "f5981419efe28815f2afab5eeed77aa0",
+    "semantic_hash": "f5981419efe28815f2afab5eeed77aa0"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/push/PushNotificationService.kt": {
+    "mtime": 1781355777.244616,
+    "ast_hash": "9027841529a6ffb6faa9634ae33aaaaa",
+    "semantic_hash": "9027841529a6ffb6faa9634ae33aaaaa"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/ui/ServerUrlDialog.kt": {
+    "mtime": 1781355777.2447238,
+    "ast_hash": "5142e48afa2a52539475c0a5ecb9a0b4",
+    "semantic_hash": "5142e48afa2a52539475c0a5ecb9a0b4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/ui/ShimmerListItem.kt": {
+    "mtime": 1781355777.244796,
+    "ast_hash": "a7b3acfaa80a3b1fcaed60465580bcca",
+    "semantic_hash": "a7b3acfaa80a3b1fcaed60465580bcca"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/app/src/main/java/org/traccar/relay/util/LocationDecryptor.kt": {
+    "mtime": 1781355777.2449386,
+    "ast_hash": "21ff144292cc687384a298bbbaa59122",
+    "semantic_hash": "21ff144292cc687384a298bbbaa59122"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/build.gradle.kts": {
+    "mtime": 1781355777.2458382,
+    "ast_hash": "7e715275a59a1bec03b0efd5910b497a",
+    "semantic_hash": "7e715275a59a1bec03b0efd5910b497a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/gradlew": {
+    "mtime": 1781355777.246655,
+    "ast_hash": "266606e78242737ef3da02a80ea0564d",
+    "semantic_hash": "266606e78242737ef3da02a80ea0564d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-relay/settings.gradle.kts": {
+    "mtime": 1781355777.2467709,
+    "ast_hash": "d84221fd584f2c9798b9ae4860b63ef9",
+    "semantic_hash": "d84221fd584f2c9798b9ae4860b63ef9"
+  }
+}
