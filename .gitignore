@@ -8,3 +8,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# graphify internal state (deliverables are committed explicitly)
+graphify-out/.graphify_*
+graphify-out/cache/
